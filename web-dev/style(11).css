@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  font-family: "Arial Narrow Bold", sans-serif;
+}
+
+nav {
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+
+.slt {
+  margin-left: 30px;
+}
+
+.great {
+  color: wheat;
+  align-items: center;
+}
+
+.para {
+  color: white;
+}
+
+.fa-location-dot {
+  color: white;
+}
+
+.add-icon {
+  display: flex;
+  margin-left: 30px;
+}
+
+.nav-search {
+  display: flex;
+}
+
+.nav-search {
+  margin-left: 25px;
+  border-radius: 5px;
+}
+.fa-solid fa-magnifying-glass {
+  color: white;
+}
